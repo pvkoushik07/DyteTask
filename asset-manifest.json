@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DyteTask/static/css/main.1647583d.chunk.css",
+    "main.js": "/DyteTask/static/js/main.0e7019e4.chunk.js",
+    "main.js.map": "/DyteTask/static/js/main.0e7019e4.chunk.js.map",
+    "runtime-main.js": "/DyteTask/static/js/runtime-main.31a8b9e8.js",
+    "runtime-main.js.map": "/DyteTask/static/js/runtime-main.31a8b9e8.js.map",
+    "static/css/2.5112dc0b.chunk.css": "/DyteTask/static/css/2.5112dc0b.chunk.css",
+    "static/js/2.ef54ed21.chunk.js": "/DyteTask/static/js/2.ef54ed21.chunk.js",
+    "static/js/2.ef54ed21.chunk.js.map": "/DyteTask/static/js/2.ef54ed21.chunk.js.map",
+    "index.html": "/DyteTask/index.html",
+    "static/css/2.5112dc0b.chunk.css.map": "/DyteTask/static/css/2.5112dc0b.chunk.css.map",
+    "static/css/main.1647583d.chunk.css.map": "/DyteTask/static/css/main.1647583d.chunk.css.map",
+    "static/js/2.ef54ed21.chunk.js.LICENSE.txt": "/DyteTask/static/js/2.ef54ed21.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31a8b9e8.js",
+    "static/css/2.5112dc0b.chunk.css",
+    "static/js/2.ef54ed21.chunk.js",
+    "static/css/main.1647583d.chunk.css",
+    "static/js/main.0e7019e4.chunk.js"
+  ]
+}
